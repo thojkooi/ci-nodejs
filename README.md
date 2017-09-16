@@ -17,6 +17,7 @@ Pre-build image containing NodeJS and various additional nodejs packages to save
 - npm-dview
 - snazzy
 - nsp
+- js-yaml
 
 ## Usage
 
