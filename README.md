@@ -2,7 +2,7 @@
 
 [![build status](https://gitlab.com/thojkooi/ci-nodejs/badges/master/build.svg)](https://gitlab.com/thojkooi/ci-nodejs/commits/master)
 
-Pre-build image containing NodeJS and various additional nodejs packages to save having to install those during pipeline builds. Image is based on [Alpine Node](https://github.com/mhart/alpine-node) by mhart.
+Pre-build image containing NodeJS and various additional nodejs packages to save having to install those during pipeline builds.
 
 ## Available tools
 
