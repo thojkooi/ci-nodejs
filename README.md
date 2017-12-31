@@ -1,6 +1,6 @@
 # Gitlab CI - NodeJS
 
-[![build status](https://gitlab.com/thojkooi/ci-nodejs/badges/master/build.svg)](https://gitlab.com/thojkooi/ci-nodejs/commits/master) [![Docker Build Statu](https://img.shields.io/docker/build/thojkooi/ci-nodejs.svg)](https://github.com/thojkooi/ci-nodejs)
+[![build status](https://gitlab.com/thojkooi/ci-nodejs/badges/master/build.svg)](https://gitlab.com/thojkooi/ci-nodejs/commits/master) [![Docker Build Statu](https://img.shields.io/docker/build/thojkooi/ci-nodejs.svg)](https://hub.docker.com/r/thojkooi/ci-nodejs/)
 
 Pre-build image containing NodeJS and various additional nodejs packages to save having to install those during pipeline builds.
 
